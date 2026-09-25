@@ -87,10 +87,10 @@ Python 3.10+, Flask, Pydantic, Shapely, networkx, matplotlib, WebSocket.
 
 ## Контакты
 
-- **Репозиторий:** [ссылка]
+- **Репозиторий:** [https://github.com/bugaev-vs/mds]
 - **Документация:** `docs/`
 - **Поддержка:** support@dispatcher.local
 
 ---
 
-*Версия 1.0 — 2025-06-01*
+*Версия 1.0 — 2026-09-25*
